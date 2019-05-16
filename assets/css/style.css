@@ -161,7 +161,7 @@ input {
 
 textarea {
     width: 950px;
-    height: 100px;
+    height: 150px;
     border: 2px solid gray;
 }
 
@@ -181,4 +181,20 @@ textarea {
 #contact-heading {
     color: #4aaaa5;
     border-bottom: 2px solid gray;
+}
+
+#contact-fields: {
+    border: 2px solid gray;
+}
+
+#message-submission {
+    position: fixed;
+    top: 200px;
+    left: 345px;
+}
+
+.btn {
+    margin-top: 20px;
+    margin-left: 900px;
+    padding: 10px;
 }
